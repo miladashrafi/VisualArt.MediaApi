@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34004.107
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VisualArt.MediaApi", "VisualArt.MediaApi\VisualArt.MediaApi.csproj", "{4EEEAB44-407A-472C-8166-75F3F3D1DDC9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VirtualArt.MediaApi.Test", "VirtualArt.MediaApi.Test\VirtualArt.MediaApi.Test.csproj", "{E4A91882-257C-4EAD-A9D6-6A48554A3958}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4EEEAB44-407A-472C-8166-75F3F3D1DDC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EEEAB44-407A-472C-8166-75F3F3D1DDC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EEEAB44-407A-472C-8166-75F3F3D1DDC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EEEAB44-407A-472C-8166-75F3F3D1DDC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4A91882-257C-4EAD-A9D6-6A48554A3958}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4A91882-257C-4EAD-A9D6-6A48554A3958}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4A91882-257C-4EAD-A9D6-6A48554A3958}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4A91882-257C-4EAD-A9D6-6A48554A3958}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CA06ABC5-CC6A-4113-AF29-40D3FFB1405A}
+	EndGlobalSection
+EndGlobal
